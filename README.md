@@ -1,1 +1,1 @@
-# HTML-CSS-WEBSITE
+# This repository is for the home decoration.
